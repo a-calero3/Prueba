@@ -9,6 +9,10 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
 
 ![Image text](images/malibu.PNG)
 
+## Organización del proyecto
+En la sección <strong>Issues</strong> se encuentra definida los Hitos del proyecto asi como las tareas en cada una de ellas.
+En la sección <strong>Projects</strong> esta el Dahsboard de trabajo con todas las actividades de los hitos del proyecto a realizar y los diferentes estados en los que se encuentran.
+
 ### Tecnologias usadas.
 <ul>
   <li>Spring Boot</li>
