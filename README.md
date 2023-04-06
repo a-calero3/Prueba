@@ -3,8 +3,37 @@
 
 Se realizará la implementación de una plataforma web de control de inventarios que facilite el manejo de la información relacionada con los productos brindados y reduzca la carga del personal administrativo, así como también sirva como un catálogo de ventas para los clientes.
 
-### Perfil del Cliente
+## Perfil del Cliente
 La empresa Tienda de Pieles Angelo 'S E.I.R.L es una empresa especializada en fabricación y venta de artículos de cuero y afines.
 Esta empresa tiene como principal objetivo y enfoque la satisfacción de los clientes mediante un producto de alta calidad y un buen nivel de servicio.
 
 ![Image text](images/malibu.PNG)
+
+### Tecnologias usadas.
+<ul>
+  <li>Spring Boot</li>
+  <li>Angular</li>
+  <li>MySQL</li>
+</ul>
+
+## Equipo de Trabajo G4
+
+<ul>
+  <li>Jefe del Proyecto:
+CHÁVEZ SILUPÚ, Erick Alberto</li>
+  <li>Arquitecto de software:
+CÓRDOVA SANDOVAL, Rafael Anthony</li>
+  <li>Programador Backend: 
+CALERO FALCÓN, Alfredo</li>
+  <li>Programador Front-end: 
+ALEJO CARNICA, Brayan Martín</li>
+  <li>Diseñador UX:
+RODRÍGUEZ PORRAS, José David</li>
+  <li>Analista Junior:
+BALTAZAR ALIAGA, Sebastián Pablo</li>
+  <li>Tester QA:
+ANDÍA CUSI, Juan Vicente</li>
+  <li>Administrador de Base de datos:
+CUELLO APAZA, Alexander Gabriel</li>
+</ul>
+ 
