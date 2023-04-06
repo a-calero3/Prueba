@@ -8,6 +8,7 @@ La empresa Tienda de Pieles Angelo 'S E.I.R.L es una empresa especializada en fa
 Esta empresa tiene como principal objetivo y enfoque la satisfacción de los clientes mediante un producto de alta calidad y un buen nivel de servicio.
 
 ![Image text](images/malibu.PNG)
+![Image text](https://www.facebook.com/photo/?fbid=398487728966877&set=a.398487735633543)
 
 ## Organización del proyecto
 <ul>
