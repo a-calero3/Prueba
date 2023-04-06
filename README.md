@@ -11,7 +11,7 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
 
 ## Organización del proyecto
 <ul>
-  <li>En la carpeta <strong>docs</strong> se encontrará toda la documentación pertiente del proyecto.</li>
+  <li>En la carpeta <strong>docs</strong> se encontrará toda la documentación pertinente del proyecto.</li>
   <li>En la sección <a href="https://github.com/a-calero3/Prueba/issues">Issues</a> se encuentra definida los Hitos del proyecto asi como las tareas en cada una de ellas.</li>
   <li>En la sección <a href="https://github.com/a-calero3/Prueba/projects">Projects</a> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.</li>
 </ul>
