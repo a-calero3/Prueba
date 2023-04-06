@@ -11,7 +11,7 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
 
 ## Organización del proyecto
 En la sección <strong>Issues</strong> se encuentra definida los Hitos del proyecto asi como las tareas en cada una de ellas.<br>
-En la sección <strong>Projects</strong> esta el Dahsboard de trabajo con todas las actividades de los hitos del proyecto a realizar y los diferentes estados en los que se encuentran.
+En la sección <strong>Projects</strong> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.
 
 ### Tecnologias usadas.
 <ul>
