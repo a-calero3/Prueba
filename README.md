@@ -12,10 +12,10 @@ Esta empresa tiene como principal objetivo y enfoque la satisfacción de los cli
 ## Organización del proyecto
 <ul>
   <li>En la carpeta <strong>docs</strong> se encontrará toda la documentación pertiente del proyecto.</li>
-  <li>En la sección ![Issues](https://github.com/a-calero3/Prueba/issues) se encuentra definida los Hitos del proyecto asi como las tareas en cada una de ellas.</li>
+  <li>En la sección <a href="https://github.com/a-calero3/Prueba/issues">Issues</a> se encuentra definida los Hitos del proyecto asi como las tareas en cada una de ellas.</li>
   <li>En la sección <strong>Projects</strong> esta el Dahsboard de proyecto con todas las actividades de los hitos a realizar y los diferentes estados en los que se encuentran.</li>
 </ul>
-[Issues](https://github.com/a-calero3/Prueba/issues)
+
 ## Tecnologias usadas.
 <ul>
   <li>Spring Boot</li>
